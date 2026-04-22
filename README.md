@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-B.E. Computer Engineering student (7th sem) from Gandhinagar,Gujarat, India — obsessed with cybersecurity, ethical hacking, and building things that matter. I think like an attacker to defend better, and I'm on a mission to land a high-impact cybersecurity role while building multiple income streams through tech.
+B.E. Computer Engineering student  — obsessed with cybersecurity, ethical hacking, and building things that matter. I think like an attacker to defend better, and I'm on a mission to land a high-impact cybersecurity role while building multiple income streams through tech.
 
 - 🔐 **Focus:** Web pentesting · Digital Forensics · AI Security · Bug Bounty
 - 🎯 **Goal:** High-paying cybersecurity internship/job + freelance income
@@ -42,14 +42,6 @@ B.E. Computer Engineering student (7th sem) from Gandhinagar,Gujarat, India — 
 | 🏠 **Home Lab** | Kali VM, network setup, attack/defense scenarios | VirtualBox · Linux |
 
 ---
-## 🏆 Certifications & Learning
-
-- [ ] CompTIA Security+ *(in progress)*
-- [ ] CEH — Certified Ethical Hacker *(target Q2 2025)*
-- [x] TryHackMe — Pre-Security Path
-- [ ] eJPT — eLearnSecurity Junior Penetration Tester
-
----
 
 ## 💼 What I'm Building
 
@@ -67,7 +59,7 @@ Research         → Quantum cryptography & AI-driven attack detection
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/viraj-solanki)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/canbeknown2u)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:virajj375@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:virajsolanki137@gmail.com)
 
 ---
 
