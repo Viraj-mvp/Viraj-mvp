@@ -6,7 +6,7 @@
 ---
 
 # 💫 About Me:
-I'm a Computer Engineering student specializing in cybersecurity, ethical hacking, and security engineering. My work focuses on understanding how systems fail, identifying vulnerabilities before attackers do, and building secure, scalable solutions.<br><br>My interests span offensive security, security operations, AI security, digital forensics, cloud security, and security automation. I actively develop practical skills through hands-on labs, research, vulnerability assessment projects, and real-world security tooling.<br><br>Current Focus Areas<br>Web Application Security<br>Penetration Testing & Vulnerability Assessment<br>Digital Forensics & Incident Response<br>AI Security & Prompt Injection Research<br>Security Automation & Tool Development<br>Bug Bounty Methodology
+I'm a Computer Engineering student specializing in cybersecurity, ethical hacking, and security engineering. My work focuses on understanding how systems fail, identifying vulnerabilities before attackers do, and building secure, scalable solutions.<br><br>My interests span offensive security, security operations, AI security, digital forensics, cloud security, and security automation. I actively develop practical skills through hands-on labs, research, vulnerability assessment projects, and real-world security tooling.
 
 
 ## 🌐 Socials:
