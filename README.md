@@ -1,248 +1,350 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=280&color=0:000000,50:001100,100:00ff41&text=VIRAJ%20SOLANKI&fontColor=00ff41&fontSize=65&animation=blinking"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=1000&color=00FF41&multiline=true&width=1000&height=120&lines=Initializing+Security+Modules...;Loading+Threat+Intelligence...;Starting+Reconnaissance+Engine...;Establishing+Secure+Connection...;Access+Granted..."/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=1&pause=999999999&color=00FF41&multiline=true&width=1000&height=180&lines=01001000+01000001+01000011+01001011+01000101+01010010;01010010+01000101+01000100+00100000+01010100+01000101+01000001+01001101;01000011+01011001+01000010+01000101+01010010+01010011+01000101+01000011"/>
-
-</div>
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=1000&lines=root%40Viraj-mvp%3A~%24+whoami;Ethical+Hacker;Red+Teamer;SOC+Analyst;AI+Engineer;Cloud+Security+Researcher;Security+Automation+Builder;Vibe+Coder;root%40Viraj-mvp%3A~%24+access+granted"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=gradient&customColorList=0,2,12,20,24,30">
-
-```bash
-┌─────────────────────────────────────────────────────┐
-│ SYSTEM INITIALIZED                                  │
-├─────────────────────────────────────────────────────┤
-│ Operator        : Viraj Solanki                     │
-│ Alias           : Viraj-MVP                         │
-│ Classification  : Computer Engineer                 │
-│ Specialization  : Cybersecurity & AI Engineering    │
-│ Status          : Online                            │
-│ Clearance Level : RED TEAM                          │
-│ Environment     : Production                        │
-│ Location        : India                             │
-└─────────────────────────────────────────────────────┘
-```
-
-
----
-
-# root@viraj-mvp:~$ cat profile.txt
-
-```yaml
-name: VIRAJ SOLANKI
-
-alias: Viraj-MVP
-
-roles:
-  - Ethical Hacker
-  - Cybersecurity Analyst
-  - Red Team Operator
-  - SOC Analyst
-  - AI Engineer
-  - Security Researcher
-
-focus:
-  - Offensive Security
-  - Detection Engineering
-  - Cloud Security
-  - AI Security
-  - Security Automation
-  - Vibe Coding
-
-mission:
-  Build Secure Systems
-  Break Weak Systems
-  Automate Everything
-  Scale With AI
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=0,2,12,20,24,30">
-
-# root@viraj-mvp:~$ ls skills/
-
-```text
-📂 offensive-security
-├── Web Application Security
-├── API Security Testing
-├── Active Directory
-├── Network Pentesting
-├── Red Team Operations
-└── Threat Emulation
-
-📂 defensive-security
-├── SOC Operations
-├── Threat Hunting
-├── SIEM Engineering
-├── Incident Response
-└── Detection Engineering
-
-📂 cloud-security
-├── AWS Security
-├── Docker Security
-├── Linux Hardening
-├── Identity Management
-└── Security Monitoring
-
-📂 ai-engineering
-├── Agentic Workflows
-├── RAG Systems
-├── LLM Applications
-├── AI Security
-└── Automation Pipelines
-```
-
----
-
-# root@viraj-mvp:~$ neofetch
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,aws,git,github,vscode,react,nodejs,mongodb,postgres,firebase"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=0,2,12,20,24,30">
-
-# root@viraj-mvp:~$ ./security_arsenal.sh
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Nmap-00C2FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Metasploit-8A2BE2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/BloodHound-E53935?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk"/>
-
-<img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge"/>
-
-</div>
-
----
-
-# root@viraj-mvp:~$ cat current_operations.log
-
-```log
-[+] Building Security Projects
-[+] Researching AI Security
-[+] Learning Advanced Red Teaming
-[+] Exploring Cloud Security
-[+] Developing Automation Tools
-[+] Building AI Agents
-[+] Contributing to Open Source
-[+] Vibe Coding New Products
-```
-
----
-
-# root@viraj-mvp:~$ tree featured_projects/
-
-```text
-featured_projects
-│
-├──Network-Monitor-AI/
-│   ├── hackathon_project
-│   ├── marketplace_platform
-│   └── business_automation
-│
-├── MEDICARE-AI/
-│   ├── healthcare_ai
-│   ├── report_analysis
-│   └── intelligent_assistant
-│
-├── Red-teaming-journey/
-│   ├── automation
-│   ├── reconnaissance
-│   └── reporting
-│
-└── forensic-amp/
-    ├── DFIR
-    ├── Log_analysis
-    └── security_agents
-```
-
----
-
-## SYSTEM TELEMETRY
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Monitoring+Infrastructure;Analyzing+Telemetry;Tracking+Contributions;Loading+Statistics"/>
-
-</div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Viraj-mvp&theme=tokyonight&hide_border=true&show_icons=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj-mvp&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080A12,45:312E81,75:7C3AED,100:F59E0B&text=VIRAJ%20SOLANKI&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=CYBERSECURITY%20%7C%20NETWORK%20SECURITY%20%7C%20DFIR&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Viraj-mvp&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Cybersecurity+Focused+Engineer;Network+%26+Infrastructure+Security;Security+Operations+%7C+DFIR+Fundamentals;Learning+%E2%80%A2+Building+%E2%80%A2+Securing" alt="Typing animation"/>
 
----
+<br><br>
 
-# root@viraj-mvp:~$ connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge)](YOUR_PORTFOLIO)
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](www.linkedin.com/in/viraj-solanki-b96743285)
-
-
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail)](mailto:virajj375@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-080A12?style=for-the-badge\&logo=linkedin\&logoColor=22D3EE)](https://www.linkedin.com/in/virajsolanki03)
+[![Email](https://img.shields.io/badge/Email-080A12?style=for-the-badge\&logo=gmail\&logoColor=F59E0B)](mailto:virajj375@gmail.com)
 
 </div>
 
 ---
 
-```bash
-root@viraj-mvp:~$ logout
+## `> whoami`
 
-Connection closed.
-
-Attackers think in possibilities.
-Defenders think in controls.
-Engineers build the future.
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                     VIRAJ SOLANKI                            │
+├──────────────────────────────────────────────────────────────┤
+│ Role       : Cybersecurity-focused Engineer                  │
+│ Focus      : Security Engineering & Network Security         │
+│ Interests  : SOC • DFIR • Infrastructure Security            │
+│ Learning   : Security Operations • Automation • Linux        │
+│ Environment: Windows • Linux • Networking                    │
+└──────────────────────────────────────────────────────────────┘
 ```
 
+I’m a cybersecurity-focused engineer building practical foundations across **security operations, network security, IT infrastructure, DFIR, and security automation**.
 
-<div align="center">
+My approach is simple:
 
-## NEURAL ACTIVITY MAP
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+> **Understand the system → identify the weakness → investigate the evidence → improve the security.**
+
+---
+
+## `> security_console`
+
+```text
+                 ┌───────────────────────┐
+                 │       SYSTEMS         │
+                 │ Windows • Linux       │
+                 └───────────┬───────────┘
+                             │
+                             ▼
+                 ┌───────────────────────┐
+                 │       NETWORK         │
+                 │ TCP/IP • DNS • HTTP   │
+                 │ Firewalls • Switching │
+                 └───────────┬───────────┘
+                             │
+                             ▼
+                 ┌───────────────────────┐
+                 │       SECURITY        │
+                 │ SOC • Monitoring      │
+                 │ DFIR • VAPT Basics    │
+                 └───────────┬───────────┘
+                             │
+                             ▼
+                 ┌───────────────────────┐
+                 │      AUTOMATION       │
+                 │ Python • Bash         │
+                 │ PowerShell • Tools    │
+                 └───────────────────────┘
+```
+
+---
+
+## `> focus`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Cybersecurity
+
+* Security Operations
+* Security Monitoring
+* Incident Response fundamentals
+* DFIR fundamentals
+* Vulnerability assessment
+* Web security fundamentals
+* OWASP concepts
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Network Security
+
+* TCP/IP
+* DNS
+* HTTP / HTTPS
+* Subnetting & gateways
+* Firewalls
+* LAN / WAN
+* L2 / L3 switching
+* Network troubleshooting
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ Infrastructure
+
+* Windows administration
+* Linux / Ubuntu
+* Hardware & software troubleshooting
+* Endpoint fundamentals
+* Active Directory fundamentals
+* Infrastructure monitoring
+* RDP environments
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Automation
+
+* Python
+* Bash
+* PowerShell
+* Log handling
+* Regex
+* File processing
+* Security workflow automation
+* Git / GitHub
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> security_stack`
+
+### Operating Systems
+
+<p>
+<img src="https://img.shields.io/badge/Windows-080A12?style=for-the-badge&logo=windows&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/Linux-080A12?style=for-the-badge&logo=linux&logoColor=F59E0B"/>
+<img src="https://img.shields.io/badge/Ubuntu-080A12?style=for-the-badge&logo=ubuntu&logoColor=E95420"/>
+</p>
+
+### Languages & Automation
+
+<p>
+<img src="https://img.shields.io/badge/Python-080A12?style=for-the-badge&logo=python&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Bash-080A12?style=for-the-badge&logo=gnubash&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/PowerShell-080A12?style=for-the-badge&logo=powershell&logoColor=22D3EE"/>
+</p>
+
+### Networking & Security
+
+<p>
+<img src="https://img.shields.io/badge/FortiGate-080A12?style=for-the-badge&logo=fortinet&logoColor=F59E0B"/>
+<img src="https://img.shields.io/badge/Sophos-080A12?style=for-the-badge&logo=sophos&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Wireshark-080A12?style=for-the-badge&logo=wireshark&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/Nmap-080A12?style=for-the-badge&logoColor=A78BFA"/>
+</p>
+
+### Security & Monitoring
+
+<p>
+<img src="https://img.shields.io/badge/Burp%20Suite-080A12?style=for-the-badge&logo=burpsuite&logoColor=F59E0B"/>
+<img src="https://img.shields.io/badge/Wazuh-080A12?style=for-the-badge&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/Unified EndpointCentral-080A12?style=for-the-badge&logoColor=A78BFA"/>
+</p>
+
+---
+
+## `> how_i_think`
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### `01`
+
+**OBSERVE**
+
+Logs
+Traffic
+Systems
+
+</td>
+
+<td align="center" width="25%">
+
+### `02`
+
+**UNDERSTAND**
+
+Network
+Endpoints
+Services
+
+</td>
+
+<td align="center" width="25%">
+
+### `03`
+
+**INVESTIGATE**
+
+Events
+Indicators
+Evidence
+
+</td>
+
+<td align="center" width="25%">
+
+### `04`
+
+**SECURE**
+
+Mitigate
+Harden
+Automate
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> current_focus`
+
+```text
+[██████████████████░░]  Security Operations
+[████████████████░░░░]  Network Security
+[████████████████░░░░]  Linux & Windows
+[█████████████████░░░░░]  DFIR Fundamentals
+[████████████████░░░░░]  Security Automation
+[███████████████░░░░░]  Active Directory
+[█████████████░░░░░░░]  Cloud Security
+```
+
+> Progress bars represent **current learning focus**, not measured proficiency.
+
+---
+
+## `> learning_radar`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔎 Security Operations
+
+* SIEM fundamentals
+* Log analysis
+* Alert investigation
+* Incident response
+* Detection concepts
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧪 DFIR
+
+* Evidence handling
+* Windows artifacts
+* Linux investigation
+* Timeline analysis
+* Forensic fundamentals
+
+</td>
+
+<td width="33%" valign="top">
+
+### ☁️ Next Layer
+
+* Cloud fundamentals
+* Cloud security concepts
+* Security automation
+* Advanced networking
+* Endpoint security
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> operating_principles`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                    SECURITY MINDSET                          │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  Learn the fundamentals                                     │
+│          ↓                                                   │
+│  Understand how systems communicate                          │
+│          ↓                                                   │
+│  Monitor what happens                                        │
+│          ↓                                                   │
+│  Investigate abnormal behaviour                              │
+│          ↓                                                   │
+│  Document the evidence                                       │
+│          ↓                                                   │
+│  Automate repetitive work                                   │
+│          ↓                                                   │
+│  Improve the security posture                                │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `> currently_building`
+
+```text
+Cybersecurity
+      │
+      ├── Security Operations
+      │      ├── Monitoring
+      │      ├── Logs
+      │      └── Incident Response
+      │
+      ├── Network Security
+      │      ├── Firewalls
+      │      ├── Switching
+      │      └── Troubleshooting
+      │
+      ├── DFIR
+      │      ├── Investigation
+      │      ├── Evidence
+      │      └── Analysis
+      │
+      └── Automation
+             ├── Python
+             ├── PowerShell
+             └── Security Workflows
+```
+
+---
+<div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:F59E0B,50:7C3AED,100:080A12"/>
 
 </div>
-
-
-
